@@ -8,4 +8,4 @@ The program demo video is uploaded here, it is 2 minutes and 57 seconds long and
 
 Some detail: This whole project was done by following this tutorial on youtube: https://youtu.be/N20eXcfyQ_4. I want to give credit now since my Project Report is not done yet.
 
-**More details will be in the Project Report.** *(As of 3:33AM, it is still being written, but by the morning-noon, it will be finished.*
+**More details will be in the Project Report.** 
